@@ -1,0 +1,3 @@
+[submodule "org.alloytools.alloy"]
+	path = org.alloytools.alloy
+	url = git@github.com:AlloyTools/org.alloytools.alloy.git
